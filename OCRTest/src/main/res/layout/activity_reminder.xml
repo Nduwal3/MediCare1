@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.sfsu.cs.orange.ocr.reminder"
+    android:orientation="vertical"
+    >
+
+
+
+    <TimePicker
+        android:id="@+id/timePicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.5"
+        android:visibility="visible"
+        android:background="#FBC02D"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/set_alarm"
+        android:text="set alarm"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:onClick="reminderbtnclicked"
+        android:background="#F9A825"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/timePicker"
+        android:layout_alignLeft="@+id/timePicker" />
+
+    <Button
+        android:id="@+id/unset_alarm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="#F9A825"
+        android:gravity="center"
+        android:onClick="reminderbtnclicked"
+        android:text="unset alarm"
+        android:layout_alignBaseline="@+id/set_alarm"
+        android:layout_alignBottom="@+id/set_alarm"
+        android:layout_alignRight="@+id/timePicker"
+        android:layout_marginRight="18dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/message"
+        android:text="medicine time"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/unset_alarm"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="36dp"
+        android:textSize="20dp"/>
+
+
+
+</RelativeLayout>

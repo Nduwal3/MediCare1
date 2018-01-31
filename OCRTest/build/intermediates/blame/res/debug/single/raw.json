@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "E:\\android-ocr-master\\OCRTest\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "E:\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\raw\\ringtone.mp3",
+        "source": "E:\\android-ocr-master\\OCRTest\\src\\main\\res\\raw\\ringtone.mp3"
+    },
+    {
+        "merged": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\raw\\ringtone.mp3",
+        "source": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\src\\main\\res\\raw\\ringtone.mp3"
+    }
+]

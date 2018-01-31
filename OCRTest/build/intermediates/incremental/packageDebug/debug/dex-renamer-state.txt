@@ -1,0 +1,4 @@
+#Tue Jan 30 13:26:39 NPT 2018
+base.0=E\:\\android-ocr-master\\OCRTest\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

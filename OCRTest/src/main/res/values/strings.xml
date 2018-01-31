@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">MediCare</string>
+    <string name="title_activity_medicine_display">medicineDisplay</string>
+
+    <string-array name="title">
+        <item>Advanced Poly Clinic</item>
+        <item> Bhaktapur cancer Hospital</item>
+        <item>B $ B Hospital</item>
+        <item>Bir Hospital</item>
+        <item>Dr.iwamura Memorial Hospital</item>
+        <item>Grande international Hospital</item>
+        <item> Kantipur Hospital</item>
+        <item>Mental Hospital</item>
+        <item>National Cancer Hospital</item>
+        <item>Nepal Anti TB Association</item>
+        <item>Norvic International Hospital</item>
+        <item>T. U. Teaching Hospital</item>
+        <item>Scheer Memorial Hospital</item>
+
+        <item>Advanced Poly Clinic</item>
+        <item> Bhaktapur cancer Hospital</item>
+        <item>B $ B Hospital</item>
+        <item>Bir Hospital</item>
+        <item>Dr.iwamura Memorial Hospital</item>
+        <item>Grande international Hospital</item>
+        <item> Kantipur Hospital</item>
+        <item>Mental Hospital</item>
+        <item>National Cancer Hospital</item>
+        <item>Nepal Anti TB Association</item>
+        <item>Norvic International Hospital</item>
+        <item>T. U. Teaching Hospital</item>
+        <item>Scheer Memorial Hospital</item>
+    </string-array>
+
+    <string-array name="Location">
+        <item>PaniPokhari, Kathmandu, </item>
+        <item> Dudhpati,Bhaktapur</item>
+        <item>gwarko,lalitpur</item>
+        <item>Tundikhel</item>
+        <item>sallaghari,Bhaktapur</item>
+        <item>Dhapasi</item>
+        <item>Tinkune, Kathmand</item>
+        <item>lalitpur</item>
+        <item>jawalakhel</item>
+        <item>Kalimati,kathmandu</item>
+        <item> Thapathali,kathmandu</item>
+        <item>Maharajganj,Kathmandu,Nepal</item>
+        <item>Banepa</item>
+        <item>PaniPokhari, Kathmandu, </item>
+        <item> Dudhpati,Bhaktapur</item>
+        <item>gwarko,lalitpur</item>
+        <item>Tundikhel</item>
+        <item>sallaghari,Bhaktapur</item>
+        <item>Dhapasi</item>
+        <item>Tinkune, Kathmand</item>
+        <item>lalitpur</item>
+        <item>jawalakhel</item>
+        <item>Kalimati,kathmandu</item>
+        <item> Thapathali,kathmandu</item>
+        <item>Maharajganj,Kathmandu,Nepal</item>
+        <item>Banepa</item>
+    </string-array>
+
+    <string-array name="Contact">
+        <item>0114431078</item>
+        <item>16614430</item>
+        <item>15531933</item>
+        <item>14230710,</item>
+        <item>6612705</item>
+        <item>15159266</item>
+        <item>043510801</item>
+        <item>15521333</item>
+        <item>15251312</item>
+        <item>4275395</item>
+        <item>4258554 </item>
+        <item>4410911</item>
+        <item>1661111</item>
+        <item>0114431078</item>
+        <item>16614430</item>
+        <item>15531933</item>
+        <item>14230710,</item>
+        <item>6612705</item>
+        <item>15159266</item>
+        <item>043510801</item>
+        <item>15521333</item>
+        <item>15251312</item>
+        <item>4275395</item>
+        <item>4258554 </item>
+        <item>4410911</item>
+        <item>1661111</item>
+    </string-array>
+
+</resources>

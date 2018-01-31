@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_home.png",
+        "source": "E:\\android-ocr-master\\OCRTest\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_health.png",
+        "source": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\src\\main\\res\\drawable-xhdpi\\ic_health.png"
+    },
+    {
+        "merged": "E:\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_camera.png",
+        "source": "E:\\android-ocr-master\\OCRTest\\src\\main\\res\\drawable-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_home.png",
+        "source": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_camera.png",
+        "source": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\src\\main\\res\\drawable-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "E:\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_health.png",
+        "source": "E:\\android-ocr-master\\OCRTest\\src\\main\\res\\drawable-xhdpi\\ic_health.png"
+    },
+    {
+        "merged": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_note.png",
+        "source": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\src\\main\\res\\drawable-xhdpi\\ic_note.png"
+    },
+    {
+        "merged": "E:\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_note.png",
+        "source": "E:\\android-ocr-master\\OCRTest\\src\\main\\res\\drawable-xhdpi\\ic_note.png"
+    }
+]

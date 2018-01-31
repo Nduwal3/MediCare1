@@ -1,0 +1,7 @@
+#Fri Aug 11 23:39:39 NPT 2017
+base.0=C\:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7fb2b4df18bd0855e938f74e93fe10f9b32ea519
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_efb0a56a3b9e62b6eaebdac437698eeb2bc6cc7b\\classes.dex
+base.1=C\:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_efb0a56a3b9e62b6eaebdac437698eeb2bc6cc7b
+file.0=C\:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7fb2b4df18bd0855e938f74e93fe10f9b32ea519\\classes.dex

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\json_simple-1.1_e4e60f10cc89e1ccc80ccd1b3732d10644ea69a2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\libs\json_simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\2\json_simple-1.1_e4e60f10cc89e1ccc80ccd1b3732d10644ea69a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\libs\jtar-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6ff62805312c9384c2f4cc21a6367b74fd2bbd7">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\jtar-1.0.4_99fd1159632546467a25bb0dcb601ea188b8697a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\libs\jtar-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6ff62805312c9384c2f4cc21a6367b74fd2bbd7">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\2\jtar-1.0.4_99fd1159632546467a25bb0dcb601ea188b8697a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\b71c7e7be703007bd6dfc221f77d9994a96c5b31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_163538723a65855087db349e7707aafec60d0ea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\03302ae16bb120395807df52ea55083add429872\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_0fdc9b3f0434aef43107ba5c147ea05dc212fe58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\4af73811acd39828c0dfcf863eb401be2048fe80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_4fa1f4369dee91ac334a848021baaa115c0cb80d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\5ac31895911d8177876a9747d8b3730d2c93690b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_c32babe5a0e22a5772b21c391a52faa2de2f46df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\171d6e0b11e57aa69fa4c7dbf50a285a71f2cb5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_ca78d65c7b4c62919f88f741556d00d3f757c7c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\bb23972f66dcb5fe47e3c39cb1d7063e1e56db5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_532dc07b8e57655411dd7d015630fdeb35ac8bd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\7f85efd2fe7cb857f5a6d12f00818f7a5e17b1c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e0e889131ab94f74ab964b2bf6ff157edfb355b">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_812c649966769dbf82e4c49f3f6fa997cdd95736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\171396558389d22a9725c2ec6bbdd381249a8cab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_5db59c93f19b47d969eef994d19d26e060ff33ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\1883dd4224d34a16008cd99f33bcde5691c6c93b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_13738d08b209f1e3a0b6aefee81e05e55c3df9e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\508d53534b098f4ebae20749418bde50bf7091f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_0a9093a3b1133f973cb61bcb1bf53d82d08ea0a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio1\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\commons-io-2.4_153669bfc3a3fe4318e0fa72d1d764ed36044fea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\361197c30371cb8370c8e2d2d97ff975933b3bea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27377d2be96cab8211f228b424f221f34a0fa5bc">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_bef9559553a10b6e7f19b751e4708b2ad6e4e11f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\7bab2db673daeb4b68a6371f90d7154fc3c76712\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5553c3597d5f766a8364a49925fcbb304bb091b">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_d299f81f3c86f573ea9768a678c98650d118ba18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\47de1590b0739c975c48e879e583f9bc589e0ac3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_bf5d0d315721456300c123f7e8c2c327bbc58654.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\d1a7dfdd3033a048fc00ff4d4be1b04b97e519c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_7ba8343129313685ec38ab7fb5d6b189351aef73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\c3f44ef38dfbf71a7d83b56e1194dbb22d8f4aee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_c3cf76c8f910f2c785073d8e42b34e5745c45ab9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_2a222f8df1e4a20d897c5736ab44c113ee9a0278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\f69a82d53b6b3370e8a759434fbdbefd39c90707\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461cd433c2723981c7536d60acfcf3d86f3105fb">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_084aafaf8d06b1d801235b9f96ee6a14543aea20.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_efb0a56a3b9e62b6eaebdac437698eeb2bc6cc7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_ac91e7bc159f22c41455dcc8460c111f94cb122d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2bec95b34028a1b0ed198d4f5a93a0dd0a630134">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7fb2b4df18bd0855e938f74e93fe10f9b32ea519\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\DDELL\.android\build-cache\0e50171964854214480b0c59d45b340530d68075\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\DDELL\AndroidStudioProjects\new\android-ocr-master\OCRTest\build\intermediates\pre-dexed\debug\classes_db5a838f002e4056805c1511852cef3b58b749ee.jar" />
+    </item>
+
+</items>

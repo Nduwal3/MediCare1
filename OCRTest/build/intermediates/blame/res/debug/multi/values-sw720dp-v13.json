@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "E:\\android-ocr-master\\OCRTest\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\DDELL\\.android\\build-cache\\f69a82d53b6b3370e8a759434fbdbefd39c90707\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 58,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "C:\\Users\\DDELL\\.android\\build-cache\\f69a82d53b6b3370e8a759434fbdbefd39c90707\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 58,
+                        "endOffset": 167
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\DDELL\\.android\\build-cache\\f69a82d53b6b3370e8a759434fbdbefd39c90707\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 58,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "C:\\Users\\DDELL\\.android\\build-cache\\f69a82d53b6b3370e8a759434fbdbefd39c90707\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 58,
+                        "endOffset": 167
+                    }
+                }
+            }
+        ]
+    }
+]

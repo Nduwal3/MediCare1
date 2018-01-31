@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\android-ocr-master\\OCRTest\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "E:\\android-ocr-master\\OCRTest\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\DDELL\\AndroidStudioProjects\\new\\android-ocr-master\\OCRTest\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
